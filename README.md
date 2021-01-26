@@ -12,11 +12,11 @@ Pour le lancer il faut aller dans la classe principale /JAnalyseSNA/src/org/JAna
 + Vous testez l'utilitaire en ligne de commande en mettant en commentaire les lignes 24 à 27 pour que la variable nf soit à null
 
 Prochaines étapes (selon l'ordre de priorité) :
-1- Mettre en place des tests unitaires automatisés sur le code existant
-2- Ajouter la logique pour lister les tableaux (instruction DIM), leurs définitions et leurs contenus
-3- Vérifier dans le header du fichier snapshot le type d'Amastrad CPC émulé (les adresses où l'on va chercher les informations au début changent selon le type)
-4- Permettre la comparaison entre deux snapshots
-5- Extraire et afficher toutes les informations présentes dans le header 
++ Mettre en place des tests unitaires automatisés sur le code existant
++ Ajouter la logique pour lister les tableaux (instruction DIM), leurs définitions et leurs contenus
++ Vérifier dans le header du fichier snapshot le type d'Amastrad CPC émulé (les adresses où l'on va chercher les informations au début changent selon le type)
++ Permettre la comparaison entre deux snapshots
++ Extraire et afficher toutes les informations présentes dans le header 
 
 Je tiens à remercier Kukulclan pour gérer le site https://www.cpc-power.com qui m'a permis de faire revivre ma première passion informatique.
 Pour la prise des fichiers snapshot l'émulateur CaPriCe Forver https://www.cpc-power.com/cpcarchives/index.php?page=articles&num=445 a été utilisé
