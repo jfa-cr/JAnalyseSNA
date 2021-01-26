@@ -20,3 +20,5 @@ Prochaines étapes (selon l'ordre de priorité) :
 
 Je tiens à remercier Kukulclan pour gérer le site https://www.cpc-power.com qui m'a permis de faire revivre ma première passion informatique.
 Pour la prise des fichiers snapshot l'émulateur CaPriCe Forver https://www.cpc-power.com/cpcarchives/index.php?page=articles&num=445 a été utilisé
+
+JFA-CR
